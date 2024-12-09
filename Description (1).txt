@@ -1,0 +1,8 @@
+Task 4: Clustering for Customer Segmentation
+Description: Use clustering to segment customers based on behavioral or demographic data. This task introduces unsupervised learning, focusing on grouping similar data points and visualizing clusters.
+Skills: Python, Scikit-Learn, K-Means, PCA, Data Visualization.
+Objectives:
+Standardize and preprocess the dataset for clustering.
+Apply K-Means clustering and determine the optimal number of clusters using the elbow method.
+Visualize clusters in a 2D space using PCA (Principal Component Analysis).
+Analyze the characteristics of each cluster and interpret the results.
